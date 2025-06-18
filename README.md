@@ -48,9 +48,23 @@
 
 ---
 
+### ☕ Support Me
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnd4c2x1a24yMDc1OWppa3NvZHZvMXVid3loMnVwbGY2eGU0ZGFuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VhRU9RvKZWKujYXhlJ/giphy.gif" width="200px" alt="cat gif" />
+</p>
+
+<p align="center">
+  <a href="https://cafecito.app/meliochat" target="_blank">
+    <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
+---
+
 ### 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meliochat)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/meliochat)
 
 ---
