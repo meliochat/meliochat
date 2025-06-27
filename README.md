@@ -2,7 +2,9 @@
 <img src="https://github.com/meliochat/meliochat/blob/main/banner.png" width="100%" alt="Banner" />
 
 <h1 align="center">Hi there! 🌸 I'm Melina</h1>
-<p align="center">Software Developer | Information Systems Student | Creative Coder </p>
+<p align="center">Developer | Information Systems Student | Creative Coder </p>
+<h1 align="center">Hey! 🌸 Soy Melina</h1>
+<p align="center">Desarrolladora | Estudiante de Sistemas de Información </p>
 
 ---
 
@@ -13,9 +15,15 @@
 -  Passionate about UI/UX design, clean code and turning ideas into reality.
 -  Open to collaborate on projects or just chat tech!
 
+## Sobre mí  
+-  Estudiante de la carrera de Sistemas de Información.  
+-  Actualmente aprendiendo y practicando: HTML, CSS, JavaScript, Python, React, SQL y Node.js.  
+-  Apasionada por el diseño UI/UX, el código limpio y transformar ideas en realidad.  
+-  Abierta a colaborar en proyectos o simplemente charlar sobre tecnología.
+
 ---
 
-### Languages & Frameworks
+### Languages & Frameworks / Lenguajes & Frameworks
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -27,7 +35,7 @@
 
 ---
 
-### 🛠️ Tools & Environments
+### Tools & Environments / Herramientas 
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
