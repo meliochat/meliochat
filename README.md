@@ -1,5 +1,5 @@
 <!-- Banner superior -->
-<img src="https://github.com/meliochat/meliochat/blob/main/banner.png" width="100%" alt="Banner" />
+<img src="https://github.com/meliochat/meliochat/banner.png" width="100%" alt="Banner" />
 
 <h1 align="center">Hi there! I'm Melina</h1>
 <p align="center">Developer | Information Systems Student | Creative Coder </p>
