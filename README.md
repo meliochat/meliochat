@@ -1,9 +1,9 @@
 <!-- Banner superior -->
 <img src="https://github.com/meliochat/meliochat/blob/main/banner.png" width="100%" alt="Banner" />
 
-<h1 align="center">Hi there! 🌸 I'm Melina</h1>
+<h1 align="center">Hi there! I'm Melina</h1>
 <p align="center">Developer | Information Systems Student | Creative Coder </p>
-<h1 align="center">Hey! 🌸 Soy Melina</h1>
+<h1 align="center">Hey! Soy Melina</h1>
 <p align="center">Desarrolladora | Estudiante de Sistemas de Información </p>
 
 ---
@@ -53,7 +53,7 @@
 
 ---
 
-### ☕ Support Me
+### Support Me
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnd4c2x1a24yMDc1OWppa3NvZHZvMXVid3loMnVwbGY2eGU0ZGFuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VhRU9RvKZWKujYXhlJ/giphy.gif" width="200px" alt="cat gif" />
@@ -67,13 +67,13 @@
 
 ---
 
-### 📫 Reach Me
+### Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meliochat)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/meliochat)
 
 ---
 
-### ✨ Quote
+### Quote
 
 > *"Keep coding, keep dreaming!"* 💫
