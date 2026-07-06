@@ -1,13 +1,3 @@
-<!-- Banner superior -->
-<img src="banner.png" width="100%" alt="Banner" />
-
-<h1 align="center">Hi there! I'm Melina</h1>
-<p align="center">Developer | Information Systems Student | Creative Coder </p>
-<h1 align="center">Hey! Soy Melina</h1>
-<p align="center">Desarrolladora | Estudiante de Sistemas de Información </p>
-
----
-
 ### About Me
 
 -  Information Systems student.
@@ -32,13 +22,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A9B9C4?style=flat&logo=c&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-tokens&logoColor=white)
 
 ---
 
@@ -50,20 +36,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-### Support Me
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnd4c2x1a24yMDc1OWppa3NvZHZvMXVid3loMnVwbGY2eGU0ZGFuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VhRU9RvKZWKujYXhlJ/giphy.gif" width="200px" alt="cat gif" />
-</p>
-
-<p align="center">
-  <a href="https://cafecito.app/meliochat" target="_blank">
-    <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
 
 ---
 
