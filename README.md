@@ -2,7 +2,7 @@
 
 Soy estudiante de **Licenciatura en Sistemas de Información** y **Licenciatura en Ciencias Biológicas** en la Universidad Nacional del Nordeste (UNNE).
 
-Me interesa especialmente la intersección entre **tecnología, programación y ciencias biológicas**, y actualmente estoy enfocada principalmente en mi formación académica y en seguir desarrollando mis habilidades técnicas.
+Me interesa especialmente la intersección entre **tecnología, programación y ciencias biológicas**, y actualmente estoy enfocada en mi formación académica y en seguir fortaleciendo mis conocimientos en programación y ciencias.
 
 ---
 
@@ -52,4 +52,4 @@ Proyecto desarrollado en equipo en el marco de un hackathon, trabajando con aná
 
 ##  Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/meliochat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meliochat/)
